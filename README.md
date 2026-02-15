@@ -56,4 +56,6 @@ API Docs (Swagger UI): http://127.0.0.1:8000/docs
 
 📝 Final Status: API LIVE ✅
 The system is verified and successfully serving the "API LIVE" status on the local host.
-<img width="1364" height="717" alt="financial_analyzer_output" src="https://github.com/user-attachments/assets/8812a623-44bc-4b85-b1cf-815ee06a9fd1" />
+<img width="1360" height="714" alt="financial_analyzer" src="https://github.com/user-attachments/assets/3c9947ac-014e-4747-9df1-b1f8c87e81b4" />
+
+
